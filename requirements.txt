@@ -4,3 +4,4 @@ python-dotenv
 st-annotated-text
 requests
 beautifulsoup4
+google-generativeai
