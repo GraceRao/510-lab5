@@ -1,7 +1,4 @@
-import streamlit as st
-import pandas as pd
 import requests
-import psycopg2
 import os
 from dotenv import load_dotenv
 
